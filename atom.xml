@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>紫锦</title>
+  
+  <subtitle>努力的锦儿会开花</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-09-20T09:17:50.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zijin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ML_Python_1week</title>
+    <link href="http://yoursite.com/2017/09/20/ML-Python-1week/"/>
+    <id>http://yoursite.com/2017/09/20/ML-Python-1week/</id>
+    <published>2017-09-20T07:44:01.000Z</published>
+    <updated>2017-09-20T09:17:50.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="规规划" scheme="http://yoursite.com/tags/%E8%A7%84%E8%A7%84%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python学习笔记-asyncio</title>
+    <link href="http://yoursite.com/2017/09/20/python/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-asyncio/"/>
+    <id>http://yoursite.com/2017/09/20/python/Python学习笔记-asyncio/</id>
+    <published>2017-09-20T07:28:34.000Z</published>
+    <updated>2017-09-20T07:38:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>没有看教学视频，凭着廖雪峰老师网站的讲解，和手动谷歌百度，对于一个编程小白来说，学习asyncio的道路真的异常艰辛。不知道在官方文档里面怎么找到自己想要的方法讲解，不知道一系列的名词：游标? orm? filed? 这时就真希望能向一个老师或同学请教，可是周围没有可以问的人，从哪里可以问问题呢所以，该好好解决这种瓶颈了是先敲代码还是先看懂代码？是先全懂还是半懂，再继续？-----first,先尝试，敲代码+半懂模式</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;没有看教学视频，凭着廖雪峰老师网站的讲解，和手动谷歌百度，对于一个编程小白来说，学习asyncio的道路真的异常艰辛。
+不知道在官方文档里面怎么找到自己想要的方法讲解，不知道一系列的名词：游标? orm? filed? 这时就真希望能向一个老师或同学请教，可
+      
+    
+    </summary>
+    
+    
+      <category term="编编码" scheme="http://yoursite.com/tags/%E7%BC%96%E7%BC%96%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>思考小说的意义</title>
+    <link href="http://yoursite.com/2017/09/14/%E6%80%9D%E8%80%83%E5%B0%8F%E8%AF%B4%E7%9A%84%E6%84%8F%E4%B9%89/"/>
+    <id>http://yoursite.com/2017/09/14/思考小说的意义/</id>
+    <published>2017-09-14T05:46:28.000Z</published>
+    <updated>2017-09-14T06:08:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>每天觉得最不想结束的时间，不是早上起不来的时候的睡觉时间，是每天上下班在公交车上看书的时间<br>可我并不太懂看小说的意义，不明白看这些虚构的故事会对我的大脑有什么影响，之前的我喜欢看传记、回忆录、历史等知识类书籍，大学时以3天一本的速度疯狂阅读，后来不知怎么，工作后买了一堆类似的书，翻开的几率却很少，会越来越没有耐心<br>重拾我对书的欲望，大概就是最近的小说吧，不到1个月，已经差不多3本了，每次读过之后，就会想如果，如果可以向一个不认识的人咨询我的烦恼会怎样，我开始在脉脉的匿名区写下我的烦恼，开始有人批判有人理解，对自己也有了一个认识，发现自己也是一个追求歪理的人，大不懂规则的人就会被老虎吃掉<br>小说的意义大概是联想自己的生活，评判自己的生活，去追求自己想要的生活吧。<br>小说和电视剧的关系又怎样呢，同样也是故事，像白鹿原的小说和电视剧，像乱世佳人的小说和电影，怎样定义一部经典，怎么定义一个泡沫剧<br>我可以概括<br>小说比电视剧更好的优势，就是一部小说可以用更短的时间看遍故事<br>电影比小说更好的优势，就是一部电影可以用更短的时间看遍故事<br>不知道为什么就扯到电影了，所以优秀的制片人把更过的优秀小说通过电影的形式展现给我们吧</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;每天觉得最不想结束的时间，不是早上起不来的时候的睡觉时间，是每天上下班在公交车上看书的时间&lt;br&gt;可我并不太懂看小说的意义，不明白看这些虚构的故事会对我的大脑有什么影响，之前的我喜欢看传记、回忆录、历史等知识类书籍，大学时以3天一本的速度疯狂阅读，后来不知怎么，工作后买了一
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>爱苏德</title>
+    <link href="http://yoursite.com/2017/08/30/%E7%88%B1%E8%8B%8F%E5%BE%B7/"/>
+    <id>http://yoursite.com/2017/08/30/爱苏德/</id>
+    <published>2017-08-30T09:33:20.000Z</published>
+    <updated>2017-08-30T09:33:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们会一直一直在一起，你才是我心目中最帅的人</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我们会一直一直在一起，你才是我心目中最帅的人&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>firsttest</title>
+    <link href="http://yoursite.com/2017/08/30/firsttest/"/>
+    <id>http://yoursite.com/2017/08/30/firsttest/</id>
+    <published>2017-08-30T07:55:23.000Z</published>
+    <updated>2017-08-30T07:56:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好，欢迎来到我的个人技术博客。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好，欢迎来到我的个人技术博客。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/08/30/hello-world/"/>
+    <id>http://yoursite.com/2017/08/30/hello-world/</id>
+    <published>2017-08-30T07:43:28.000Z</published>
+    <updated>2017-08-30T07:43:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
